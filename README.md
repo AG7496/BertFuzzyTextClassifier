@@ -1,2 +1,2 @@
-1. Text embedding using bert (by triplet loss logic)  
+1. Text embedding using bert (triplet loss as loss function)  
 2. Classification of embedding vectors using min max fuzzy classifier
